@@ -1,7 +1,6 @@
 # StudyAgent
 
 按照Hello-Agents 教程学习思路，结合自己的代码与ai提供的部分代码，整合制作的面向初学者的智能学习助手。
-作者：FAYNUG
 
 ## 一、StudyAgent解释
 
