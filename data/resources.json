@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Python 入门",
+    "description": "变量、数据类型、条件判断、循环、函数等基础内容",
+    "level": "初学者"
+  },
+  {
+    "name": "英语基础",
+    "description": "基础词汇、语法和日常阅读练习",
+    "level": "初学者"
+  },
+  {
+    "name": "日语 N3",
+    "description": "N3 词汇、语法、阅读和听力学习",
+    "level": "初级到中级"
+  },
+  {
+    "name": "高等数学基础",
+    "description": "极限、导数、积分等基础知识",
+    "level": "初学者"
+  },
+  {
+    "name": "机器学习入门",
+    "description": "监督学习、分类、回归和模型评估基础",
+    "level": "初学者"
+  },
+  {
+    "name": "Agent 基础",
+    "description": "LLM、工具调用、Agent 工作流程等基础概念",
+    "level": "初学者"
+  }
+]
